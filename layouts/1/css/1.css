@@ -37,6 +37,9 @@ body {
 .card-body {
   padding: 45px 75px;
 }
+.card-body.bg1 {
+  background: url("../../../content/images/bg1.jpg") no-repeat right bottom;
+}
 
 .card-footer {
   padding-left: 15px;
